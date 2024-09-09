@@ -1,0 +1,1 @@
+Con la colaboración de Daniel Lema, Adrián Chávez y Aitor González, hemos realizado un proyecto de detección de enfermedades en base a los síntomas de una serie de pacientes. Se utilizaron para ello, 4 archivos disponibles en el siguiente enlace: https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset?select=dataset.csv
